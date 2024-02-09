@@ -1,0 +1,2 @@
+# SomeConsoleApp
+test
